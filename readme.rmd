@@ -1,0 +1,15 @@
+---
+title: "readme.rmd"
+author: "soumya Kalra"
+date: "10/7/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Project 834
+
+This project is a exploration of publicly available real estate data.
+
